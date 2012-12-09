@@ -63,7 +63,10 @@ Further reading:
 
 *Martin Fowler*
 
-There are different ways to implement continuous integration for PHP. Recently [Travis CI](https://travis-ci.org/) has done a great job of making continuous integration a reality even for small projects. Travis CI is a hosted continuous integration service for the open source community. It is integrated with GitHub and offers first class support for many languages including PHP.
+There are different ways to implement continuous integration for PHP. Recently [Travis CI](https://travis-ci.org/) has 
+done a great job of making continuous integration a reality even for small projects. Travis CI is a hosted continuous 
+integration service for the open source community. It is integrated with GitHub and offers first class support for 
+many languages including PHP.
 
 Further reading:
 
